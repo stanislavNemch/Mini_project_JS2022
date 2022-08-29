@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body_div{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    min-width: 800px;
+}
+
+.medium_div{
+    width: calc(50% - 20px);
+    margin: 10px;
+    height: 100px;
+    border: solid red;
+    border-radius: 10px;
+}
+
+.id_div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    position: relative;
+    margin: 10px;
+}
+
+button {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 1px 30px;
+    margin: 10px 100px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+
+button:hover {
+    background-position: right center;
+}
+
+.body_user{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    position: relative;
+    margin: 10px;
+}
+
+.id_div_user{
+    border: solid darkgray;
+    margin: 5px;
+}
+
+.divPostBase {
+    overflow: hidden;
+    min-width: 900px;
+}
+
+.divPostBaseFive{
+    width: calc((90% - 4*3px) / 5);
+    background: #ccc;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+    height: 150px;
+}
+
+.divPostBaseFive > div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.divPostDetails{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    flex-direction: column;
+    position: relative;
+    margin: 10px;
+}
+
+.divPostDetails > div {
+    border-radius: 5px;
+    background: #ccc;
+    margin: 5px;
+    padding: 5px;
+    border: solid #ec9114;
+}
+
+.divComents {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    min-width: 800px;
+
+}
+
+.divComents > div {
+    width: calc(25% - 20px);
+    margin: 10px;
+    height: auto;
+    padding: 5px;
+    border: solid #ec9114;
+    background: #ccc;
+    border-radius: 5px;
+}
