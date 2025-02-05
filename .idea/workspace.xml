@@ -1,34 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71807f41-e6bd-42cd-b7a7-8af192340cbf" name="Changes" comment="" />
+    <list default="true" id="db0b13d0-a6f1-4cea-b962-9998839f7cab" name="Changes" comment="Mini project Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/css/normal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/css/okten.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/okten.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/js/okten.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/okten.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/js/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/post-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/js/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/user-details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini project JS2022/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2E1uPPJdwu6i2aUMrzziWKfs9A9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "stanislavNemch"
   }
 }]]></component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stanislavNemch/Mini_project_JS2022.git",
+    "accountId": "cb7a21d5-60d5-4a62-a985-309878891761"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\Programming\OKTEN SCHOOL\Mini_project_JS2022" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Mini_project_JS2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Mini_project_JS2022" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="71807f41-e6bd-42cd-b7a7-8af192340cbf" name="Changes" comment="" />
-      <created>1661775386777</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1661775386777</updated>
-    </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mini project Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mini project Done" />
   </component>
 </project>
